@@ -1,0 +1,6 @@
+id=disable-greezer
+name=禁用小米 Greezer 后台冻结
+version=1.0.0
+versionCode=1
+author=lynimbus
+description=禁用小米 Greezer 后台冻结，解决透明代理下应用收不到通知的问题
